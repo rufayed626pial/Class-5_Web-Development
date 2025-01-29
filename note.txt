@@ -1,0 +1,19 @@
+input is a single tag
+<input>
+
+type attribute 
+
+Data Type 
+Pial 
+626
+29/01/2025
+Male 
+Pial8459 ........
+Mymensingh 
+
+value="" name="" id=""
+
+phone number = tel
+
+age min & max 
+
